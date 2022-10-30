@@ -1,9 +1,9 @@
 console.log("welcome to tic tac toe");
 
-let turnmusic = new Audio("lichess_move.mp3")
-let gameover = new Audio("mixkit-retro-arcade-game-over-470.wav")
-let gameTied = new Audio("match tied.mp3")
-let wrongInput = new Audio("negative_beeps-6008.mp3")
+let turnmusic = new Audio("./assests/sounds/lichess_move.mp3")
+let gameover = new Audio("./assests/sounds/mixkit-retro-arcade-game-over-470.wav")
+let gameTied = new Audio("./assests/sounds/match tied.mp3")
+let wrongInput = new Audio("./assests/sounds/negative_beeps-6008.mp3")
 let turn = "X"
 let count = 0
 
