@@ -1,6 +1,6 @@
 console.log("welcome to tic tac toe");
 
-let turnmusic = new Audio("D:\my work\JS\projects\tic tac toe\assests\sounds\lichess_move.mp3")
+let turnmusic = new Audio("./assests/sounds/lichess_move.mp3")
 let gameover = new Audio("./assests/sounds/mixkit-retro-arcade-game-over-470.wav")
 let gameTied = new Audio("./assests/sounds/match tied.mp3")
 let wrongInput = new Audio("./assests/sounds/negative_beeps-6008.mp3")
